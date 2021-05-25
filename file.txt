@@ -2,7 +2,7 @@
 -------------
 #change1
 
-#change 2
+#changes done
  * Configure the user permissions in Administration » People » Permissions:
 
    - Use the administration pages and help (System module)
